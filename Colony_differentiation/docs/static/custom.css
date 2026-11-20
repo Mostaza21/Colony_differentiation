@@ -1,0 +1,18 @@
+/* Main section headings */
+article h2 {
+    margin-top: 4rem !important;
+    margin-bottom: 1.5rem !important;}
+
+/* Subsection headings */
+article h3 {
+    margin-top: 2.5rem !important;
+    margin-bottom: 1rem !important;}
+
+/* Code blocks */
+article div.highlight {
+    margin-top: 1rem !important;
+    margin-bottom: 2rem !important;}
+
+/* Paragraphs */
+article p {
+    margin-bottom: 1rem !important;}
