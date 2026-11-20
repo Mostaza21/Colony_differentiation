@@ -45,7 +45,7 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/BPSB/colony_differentiation"
+Homepage = "https://github.com/Mostaza21/Colony_differentiation"
 
 [tool.setuptools.packages.find]
 include = [
